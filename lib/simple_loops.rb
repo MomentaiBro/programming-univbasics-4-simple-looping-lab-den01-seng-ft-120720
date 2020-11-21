@@ -12,8 +12,8 @@ def loop_message_n_times (message, number)
   number += 1
   end
   
-  while number < 10 
-  message = "Hellow Red Ballon."
+  while number < 15 
+  message = "Hello Red Ballon."
   puts message
   number += 1 
   end
